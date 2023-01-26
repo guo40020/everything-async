@@ -1,0 +1,17 @@
+{
+  "name": "everything-async",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Kelly",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.32.0"
+  }
+}
